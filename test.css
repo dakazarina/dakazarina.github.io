@@ -1,0 +1,127 @@
+
+.header {
+    font-family: 'Tilt Warp','Roboto', sans-serif;
+    color: rgb(176, 11, 11);
+    font-size: 40px;
+    font-style: normal;
+}
+
+.dk-display-container {
+    position: relative
+}
+
+.dk-third {
+    float: left;
+    width: 100%}
+
+.dk-third {
+        width: 33.33333%
+    }
+
+.dk-content {
+        margin-left: auto;
+        margin-right: auto
+    }
+.dk-display-bottomleft {
+        position: absolute;
+        left: 0;
+        bottom: 0
+    }
+
+.dk-row-padding,
+.dk-row-padding>.w3-half,
+.dk-row-padding>.dk-third,
+.dk-row-padding>.dk-twothird,
+.dk-row-padding>.w3-threequarter,
+.dk-row-padding>.w3-quarter,
+.dk-row-padding>.w3-col  {
+    padding: o 8px;
+}
+.dk-container {
+    padding: 0.01em 16px
+}
+.dk-card-4 {
+    box-shadow: 0px 4px 10px 0 rgba(227, 6, 6, 0.2), 0 4px 20px 0 rgba(0, 0, 0, 0.19)
+}
+.dk-margin-top {
+    margin-top: 16px !important
+}
+.dk-white {
+    color: #000 !important;
+    background-color: #fff !important
+}
+.dk-light-grey {
+    color: #000 !important;
+    background-color: #8daacd !important
+    
+}
+.dk-text-black {
+    color: rgb(226, 19, 19) !important
+}
+.dk-text-grey {
+    color: #4e4d4d !important
+}
+.dk-margin-right {
+    margin-right: 16px !important
+}
+.dk-large {
+    font-size: 18px !important
+}
+.dk-text-blue {
+    color: #0860cc !important
+}
+.dk-round-xlarge {
+    border-radius: 16px
+}
+.dk-small {
+    font-size: 12px !important
+}
+.dk-center {
+    text-align: center !important
+}
+.dk-blue {
+    color: #fff !important;
+    background-color: #0860cc !important
+}
+.dk-text-white {
+    color: #fff !important
+}
+
+.dk-twothird  {
+    float: left;
+    width: 100%
+}
+.dk-twothird {
+    width: 66.66666%
+}
+
+.dk-card {
+    box-shadow: 0 2px 5px 0 rgba(227, 6, 6, 0.2), 0 2px 10px 0 rgba(0, 0, 0, 0.12)
+}
+.dk-margin-bottom {
+    margin-bottom: 16px !important
+}
+.dk-padding-16 {
+    padding-top: 16px !important;
+    padding-bottom: 16px !important
+}
+.dk-xxlarge {
+    font-size: 36px !important
+}
+.dk-opacity,
+.dk-hover-opacity:hover {
+    opacity: 0.60
+}
+
+.dk-tag {
+    background-color: #000;
+    color: #fff;
+    display: inline-block;
+    padding-left: 8px;
+    padding-right: 8px;
+    text-align: center
+}
+
+.dk-round {
+    border-radius: 4px
+}
